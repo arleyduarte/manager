@@ -1,1 +1,5 @@
 # manager
+
+React
+Redux
+Firebase
